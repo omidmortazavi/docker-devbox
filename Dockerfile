@@ -8,6 +8,7 @@ RUN \
     apt-get install -y \
         iproute2 \
         iputils-ping \
+        openssh-client \
         python3.6 \
         python3-pip 
 
